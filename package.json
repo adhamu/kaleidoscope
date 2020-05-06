@@ -1,0 +1,21 @@
+{
+    "name": "kaleidoscope",
+    "displayName": "Kaleidoscope",
+    "description": "A bright and colourful theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kaleidoscope",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kaleidoscope-color-theme.json"
+            }
+        ]
+    }
+}
