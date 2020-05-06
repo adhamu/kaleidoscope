@@ -5,6 +5,10 @@
     "description": "A bright and colourful theme",
     "repository": "https://github.com/adhamu/kaleidoscope.git",
     "version": "2.0.0",
+    "author": {
+        "name": "adhamu"
+    },
+    "icon": "https://en.gravatar.com/userimage/4984308/0d66239cd385ceb1c716cb74a26b7ea3.jpg?size=500",
     "engines": {
         "vscode": "^1.44.0"
     },
