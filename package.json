@@ -20,6 +20,16 @@
       "url": "https://img.shields.io/visual-studio-marketplace/v/adhamu.kaleidoscope.svg",
       "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope",
       "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/i/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope",
+      "description": "Installs"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/d/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope",
+      "description": "Downloads"
     }
   ],
   "contributes": {
