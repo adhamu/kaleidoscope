@@ -1,6 +1,7 @@
 # Kaleidoscope Theme for Visual Studio Code
 
 A bright and colorful theme for VSCode/VSCodium.
+
 [![Version](https://vsmarketplacebadge.apphb.com/version/adhamu.kaleidoscope.svg)](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)
 
 ![Preview](https://raw.githubusercontent.com/adhamu/kaleidoscope/master/kaleidoscope.png)
