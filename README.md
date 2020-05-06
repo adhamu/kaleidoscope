@@ -3,9 +3,7 @@
 A bright and colorful theme for VSCode/VSCodium.
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/adhamu.kaleidoscope.svg)](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)
-
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/adhamu.kaleidoscope.svg)](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)
-
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/adhamu.kaleidoscope.svg)](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)
 
 ![Preview](https://raw.githubusercontent.com/adhamu/kaleidoscope/master/kaleidoscope.png)
