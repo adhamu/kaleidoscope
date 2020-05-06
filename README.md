@@ -29,6 +29,12 @@ ext install adhamu.kaleidoscope
 }
 ```
 
+# Recommended Extensions
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+- [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
+- [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount)
+
 # Languages
 This theme has been tested with the following languages
 
