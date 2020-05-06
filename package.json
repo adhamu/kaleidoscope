@@ -1,27 +1,34 @@
 {
-    "name": "kaleidoscope",
-    "publisher": "adhamu",
-    "displayName": "Kaleidoscope",
-    "description": "A bright and colourful theme",
-    "repository": "https://github.com/adhamu/kaleidoscope.git",
-    "version": "2.3.0",
-    "author": {
-        "name": "adhamu"
-    },
-    "icon": "icon.jpg",
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "kaleidoscope",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kaleidoscope-color-theme.json"
-            }
-        ]
+  "name": "kaleidoscope",
+  "publisher": "adhamu",
+  "displayName": "Kaleidoscope",
+  "description": "A bright and colourful theme",
+  "repository": "https://github.com/adhamu/kaleidoscope.git",
+  "version": "2.3.0",
+  "author": {
+    "name": "adhamu"
+  },
+  "icon": "icon.jpg",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope",
+      "description": "Version"
     }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kaleidoscope",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaleidoscope-color-theme.json"
+      }
+    ]
+  }
 }
