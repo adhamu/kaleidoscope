@@ -4,7 +4,7 @@
     "displayName": "Kaleidoscope",
     "description": "A bright and colourful theme",
     "repository": "https://github.com/adhamu/kaleidoscope.git",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.44.0"
     },
