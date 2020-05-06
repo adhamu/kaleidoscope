@@ -6,6 +6,13 @@ A bright and colorful theme for VSCode/VSCodium.
 
 ![Preview](https://raw.githubusercontent.com/adhamu/kaleidoscope/master/kaleidoscope.png)
 
+# Installation
+
+```
+⌘ + P
+ext install adhamu.kaleidoscope
+```
+
 # Editor Settings
 
 ```json
