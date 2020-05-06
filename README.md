@@ -1,5 +1,7 @@
 # Kaleidoscope Theme for Visual Studio Code
 
+A bright and colorful theme for VSCode/VSCodium.
+
 ![Preview](https://raw.githubusercontent.com/adhamu/kaleidoscope/master/kaleidoscope.png)
 
 # Editor Settings
@@ -15,3 +17,18 @@
   "editor.renderWhitespace": "none"
 }
 ```
+
+# Languages
+This theme has been tested with the following languages
+
+- JS/JSX/JSON
+- HTML
+- CSS/SCSS
+- Python
+- PHP
+- Bash
+- Makefile
+- Markdown
+
+# Sidebar Icons
+[Seti](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
