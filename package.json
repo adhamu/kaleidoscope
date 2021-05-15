@@ -1,45 +1,45 @@
 {
-    "name": "kaleidoscope",
-    "displayName": "Kaleidoscope",
-    "version": "3.2.6",
-    "description": "A bright and colourful theme",
-    "categories": [
-        "Themes"
-    ],
-    "repository": "https://github.com/adhamu/kaleidoscope.git",
-    "author": {
-        "name": "adhamu"
+  "name": "kaleidoscope",
+  "displayName": "Kaleidoscope",
+  "version": "3.2.6",
+  "description": "A bright and colourful theme",
+  "categories": [
+    "Themes"
+  ],
+  "repository": "https://github.com/adhamu/kaleidoscope.git",
+  "author": {
+    "name": "adhamu"
+  },
+  "publisher": "adhamu",
+  "contributes": {
+    "themes": [
+      {
+        "label": "kaleidoscope",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaleidoscope-color-theme.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "icon": "icon.jpg",
+  "badges": [
+    {
+      "description": "Version",
+      "url": "https://img.shields.io/visual-studio-marketplace/v/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
     },
-    "publisher": "adhamu",
-    "contributes": {
-        "themes": [
-            {
-                "label": "kaleidoscope",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kaleidoscope-color-theme.json"
-            }
-        ]
+    {
+      "description": "Installs",
+      "url": "https://img.shields.io/visual-studio-marketplace/i/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
     },
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "icon": "icon.jpg",
-    "badges": [
-        {
-            "description": "Version",
-            "url": "https://img.shields.io/visual-studio-marketplace/v/adhamu.kaleidoscope.svg",
-            "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
-        },
-        {
-            "description": "Installs",
-            "url": "https://img.shields.io/visual-studio-marketplace/i/adhamu.kaleidoscope.svg",
-            "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
-        },
-        {
-            "description": "Downloads",
-            "url": "https://img.shields.io/visual-studio-marketplace/d/adhamu.kaleidoscope.svg",
-            "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
-        }
-    ],
-    "license": "MIT"
+    {
+      "description": "Downloads",
+      "url": "https://img.shields.io/visual-studio-marketplace/d/adhamu.kaleidoscope.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope"
+    }
+  ],
+  "license": "MIT"
 }
